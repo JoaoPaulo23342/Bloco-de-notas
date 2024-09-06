@@ -1,6 +1,6 @@
-# Bloco de Notas
+# Quick Note
 
-Bem-vindo ao projeto **Bloco de Notas**! Esta é uma aplicação simples desenvolvida com HTML, CSS e JavaScript, que permite criar e salvar notas em diversos formatos de arquivo. O objetivo é fornecer uma interface básica para edição e salvamento de textos.
+**Quick Note**! Esta é uma aplicação simples desenvolvida com HTML, CSS e JavaScript, que permite criar e salvar notas em diversos formatos de arquivo. O objetivo é fornecer uma interface básica para edição e salvamento de textos.
 
 ## Funcionalidades
 
